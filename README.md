@@ -4,6 +4,8 @@ A character-level GPT language model built from scratch in PyTorch, trained on T
 
 The notebook builds up in two stages: a bigram baseline first, then the full Transformer.
 
+Medium Link to read: https://medium.com/@krudrax16/building-gpt-from-scratch-what-i-learned-implementing-a-transformer-in-raw-pytorch-5fc575d2d327?sharedUserId=krudrax16
+
 ## Architecture
 
 - Token + learned positional embeddings
